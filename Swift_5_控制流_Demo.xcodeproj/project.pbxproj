@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		D6AB02CF1BFEC1A900E1A926 /* Swift_5_控制流_Demo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift_5_控制流_Demo"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6AB02D21BFEC1A900E1A926 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D6AB02D91BFEC1B400E1A926 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				D6AB02D21BFEC1A900E1A926 /* main.swift */,
+				D6AB02D91BFEC1B400E1A926 /* MyPlayground.playground */,
 			);
 			path = "Swift_5_控制流_Demo";
 			sourceTree = "<group>";
